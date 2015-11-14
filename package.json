@@ -1,0 +1,15 @@
+{
+    "name": "mean-stack-express",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "4.9.7"
+    },
+    "description": "MEAN stack express demo",
+    "main": "server.js",
+    "keywords": [
+        "MEAN",
+        "express",
+        "demo"
+    ],
+    "author": "Daniel Cook <daniel.cook@obrussa.com>"
+}
